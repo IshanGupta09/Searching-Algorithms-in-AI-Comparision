@@ -35,8 +35,11 @@ This project implements and compares various **informed** and **uninformed** sea
 
 ## 🎯 Features & Highlights
 ✅ **Graph-Based Implementation**: Dynamically creates graphs based on user preferences (heuristic/non-heuristic, weighted/non-weighted, directed/undirected).
+
 ✅ **Performance Analysis**: Compares execution time and efficiency of different algorithms.
+
 ✅ **Local Search Optimization**: Simulated Annealing overcomes the limitations of Hill Climbing.
+
 ✅ **Algorithm Complexity & Optimality Insights**.
 
 ## 🚀 Getting Started
